@@ -13,7 +13,7 @@ import (
 
 	// "github.com/mao12312/hello/p13"
 
-	"github.com/mao12312/hello/More-types/p24"
+	"github.com/mao12312/hello/More-types/p25"
 
 )
 
@@ -22,5 +22,5 @@ func main() {
 	// fmt.Println(quote.Hello())
 	// Switch.Main()
 	// p01.Main()
-	p24.Main()
+	p25.Main()
 }
