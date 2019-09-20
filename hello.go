@@ -13,14 +13,14 @@ import (
 
 	// "github.com/mao12312/hello/p13"
 
-	"github.com/mao12312/hello/More-types/p25"
+	// "github.com/mao12312/hello/More-types/p25"
 
+	"github.com/mao12312/hello/Methods-and-interfaces/p01"
 )
-
 
 func main() {
 	// fmt.Println(quote.Hello())
 	// Switch.Main()
 	// p01.Main()
-	p25.Main()
+	p01.Main()
 }
