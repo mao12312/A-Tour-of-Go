@@ -1,26 +1,10 @@
 package main
 
 import (
-	// "fmt"
-
-	// "rsc.io/quote"
-
-	// "github.com/mao12312/hello/foo"
-
-	// "github.com/mao12312/hello/p09"
-
-	// "github.com/mao12312/hello/p11"
-
-	// "github.com/mao12312/hello/p13"
-
-	// "github.com/mao12312/hello/More-types/p25"
-
-	"github.com/mao12312/hello/Methods-and-interfaces/p01"
+	ShortestWord "github.com/mao12312/hello/codewars"
 )
 
 func main() {
-	// fmt.Println(quote.Hello())
-	// Switch.Main()
-	// p01.Main()
-	p01.Main()
+	// p25.Main()
+	ShortestWord.FindShort("bitcoin take over the world maybe who knows perhaps")
 }
